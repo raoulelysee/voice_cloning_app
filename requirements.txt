@@ -1,0 +1,6 @@
+gradio>=4.0.0
+langchain>=0.3.11
+langchain-core>=0.3.0
+langchain-groq>=0.2.0
+elevenlabs
+python-dotenv>=1.0.0

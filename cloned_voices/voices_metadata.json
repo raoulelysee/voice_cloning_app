@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Ma Cloned Voice",
+    "voice_id": "Gc8QXQSpRgyjlFUhVqgM",
+    "model_id": "eleven_multilingual_v2",
+    "sample": "C:\\Users\\elyse\\OneDrive\\Desktop\\Projects\\voice_cloning\\cloned_voices\\sample_Gc8QXQSpRgyjlFUhVqgM.wav",
+    "created_at": "2025-11-25T22:21:32.213731Z"
+  },
+  {
+    "name": "Ma Cloned Voice",
+    "voice_id": "MFfAFDo9bDxAnEX9ZNAc",
+    "model_id": "eleven_multilingual_v2",
+    "sample": "C:\\Users\\elyse\\OneDrive\\Desktop\\Projects\\voice_cloning\\cloned_voices\\sample_MFfAFDo9bDxAnEX9ZNAc.wav",
+    "created_at": "2025-11-25T22:37:34.950417Z"
+  },
+  {
+    "name": "Ray",
+    "voice_id": "YhD5NAPxWS3ikNLM1Elr",
+    "model_id": "eleven_monolingual_v1",
+    "sample": "C:\\Users\\elyse\\OneDrive\\Desktop\\Projects\\voice_cloning\\cloned_voices\\sample_YhD5NAPxWS3ikNLM1Elr.wav",
+    "created_at": "2025-11-25T23:52:03.719096Z"
+  }
+]
