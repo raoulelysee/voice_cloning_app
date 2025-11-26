@@ -205,10 +205,9 @@ MIT License - Free to use and modify
 
 <div align="center">
 
-**Built with ❤️ using Open Source AI**
-
 Ready for Hugging Face Spaces 🚀 | Ultra Fast ⚡ | Economical 💰
 
 [Deploy Now](https://huggingface.co/spaces) | [Get Help](https://github.com/yourusername/voice-cloning-ai/issues)
 
 </div>
+
